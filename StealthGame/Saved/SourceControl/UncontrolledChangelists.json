@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/meinb/NiveladoStealthGame/StealthGame/Content/Levels/LevelSprite.uasset",
+				"C:/Users/meinb/NiveladoStealthGame/StealthGame/Content/Levels/LevelMap.umap",
+				"C:/Users/meinb/NiveladoStealthGame/StealthGame/Content/Levels/_GENERATED/meinb/Box_834CA800.uasset",
+				"C:/Users/meinb/NiveladoStealthGame/StealthGame/Content/Levels/LegendOfStealthman.uasset"
+			]
+		}
+	]
+}
